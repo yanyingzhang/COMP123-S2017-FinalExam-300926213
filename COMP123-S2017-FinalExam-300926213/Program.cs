@@ -5,9 +5,9 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 /*
- * Name:
- * Date:
- * StudentID:
+ * Name: Yanying Zhang
+ * Date: Aug 17, 2017
+ * StudentID: 300926213
  * Description:
  * Version:
  */

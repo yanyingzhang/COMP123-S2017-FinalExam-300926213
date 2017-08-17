@@ -4,8 +4,8 @@ using System.Linq;
 using System.Text;
 
 /*
- * Name: Tom Tsiliopoulos
- * Date: July 25, 2017
+ * Name: Yanying Zhang - 300926213
+ * Date: Aug 17, 2017
  * Description: This is the Deck class
  * It inherits from the CardList Abstract class
  * Version: 0.7 - Added the Deal5 method
